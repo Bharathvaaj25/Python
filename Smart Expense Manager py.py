@@ -149,7 +149,6 @@ class Expense(User):   # inheritance
         return f"You are spending too much on {max_cat} this month!"
 
 
-# ---------------- MAIN PROGRAM ----------------
 exp = Expense()
 
 # ---- Add User ----
